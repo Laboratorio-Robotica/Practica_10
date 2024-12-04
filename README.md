@@ -48,7 +48,7 @@ Do While fin
   y = Val(yt$)
 
 Print "columna =", x, " renglón = ", y
-Go inicio +X(x / 3) -Y(y / 3)
+Go inicio +X(x * 2) -Y(y * 2)
  i = i + 1
 Move Here -Z(20)
 Move Here +Z(20)
