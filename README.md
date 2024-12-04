@@ -115,3 +115,6 @@ La práctica permitió comprobar cómo la combinación de MATLAB con el brazo ro
 En esta práctica, se realizó un dibujo utilizando el brazo robótico Epson, pero con una diferencia significativa respecto a ejercicios previos, ahora se trabajó a partir de una imagen obtenida de la red y procesada con MATLAB. Esto permitió explorar las diversas capacidades del robot Epson. En esta ocasión, se cargaron datos específicos en el código, lo que permitió al robot seguirlos con alta precisión y comprender las instrucciones generadas por MATLAB.Por otro lado, esta experiencia destaca la versatilidad del robot para llevar a cabo diversas tareas. No solo es capaz de realizar dibujos mediante datos procesados en MATLAB, sino que también tiene el potencial de realizar actividades mucho más complejas con el apoyo de esta plataforma. Este ejercicio demuestra la versatilidad y el potencial del robot Epson para adaptarse a diferentes aplicaciones que requieren precisión, automatización y flexibilidad.
 
 
+## Referencias bibliográficas
+- Epson (2020). EPSON RC+ 7.0 Manual del usuario Administración y desarrollo de proyectos (Ver.7.3). https://files.support.epson.com/far/docs/epson_rc_pl_70_users_guide_spanish_(v73r2).pdf
+
