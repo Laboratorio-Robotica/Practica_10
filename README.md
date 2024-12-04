@@ -100,7 +100,7 @@ Acontinuación se muestra la comparación del dibujo procesador por matlab y el 
 ![WhatsApp Image 2024-11-28 at 10 02 10 AM](https://github.com/user-attachments/assets/d59523e9-099f-43c0-9fec-3be884feb370)
 
 
-El dibujo no fue realizado a la perfección, debido a que el pizarron ya se encontraba con superficies sumidas, por lo que, fue imposible llevar acabo el dibujo correctamente.
+El dibujo no fue realizado a la perfección, debido a que el pizarron ya se encontraba con superficies irregulares, por lo que, fue imposible llevar acabo el dibujo correctamente.
 
 ## Conclusiones:  
 ### Francisco Javier Godinez Lopez:
